@@ -1,0 +1,6 @@
+{
+  "name": "DevCraft Web IDE - Aprenda HTML, CSS e JavaScript",
+  "description": "Ambiente de desenvolvimento e aprendizado interativo de HTML, CSS e JavaScript com feedback em tempo real linha por linha, gamificação, projetos reais, modo offline e conexão com GitHub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
